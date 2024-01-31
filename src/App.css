@@ -1,0 +1,19 @@
+.carousel{
+  display: flex;
+  padding: 80px;
+  margin: 50px;
+}
+body{
+  background-color:tomato;
+}
+.info-box-wrapper p {
+  width: 50%;
+  margin-left: 290px;
+  background-color: white;
+  padding: 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  margin-top: 190px;
+}
+span{
+  font-weight: bold;
+}
